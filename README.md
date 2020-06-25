@@ -31,6 +31,7 @@ Then, I wanted to cluster the areas with most yellow taxi trip pickup. To do thi
 ## Time Series Techniques ##
 
 *Auto Regressive Integrated Moving Average (ARIMA)*
+
 *Trigonometric seasonality, Box-Cox transformation, ARMA errors, Trend and Seasonal components (TBATS)*
 
 ## Forecast ##

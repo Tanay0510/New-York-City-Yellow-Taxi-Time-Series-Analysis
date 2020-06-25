@@ -10,27 +10,27 @@ The New York City Taxi & Limousine Commission has taxi record available from 200
 
 Each of the data file has the following columns
 
-*Vendor-ID
+*Vendor-ID*
 
-*Trip Pickup Date-Time
+*Trip Pickup Date-Time*
 
-*Trip Dropoff Date-Time
+*Trip Dropoff Date-Time*
 
-*Passenger Count
+*Passenger Count*
 
-*Trip Distance
+*Trip Distance*
 
-*Start Longitude
+*Start Longitude*
 
-*Start Latitude
+*Start Latitude*
 
-*End Longitude
+*End Longitude*
 
-*End Latitude
+*End Latitude*
 
-*Payment Type
+*Payment Type*
 
-*Total Amount (Fare Amount + Extra + MTA Tax + Toll Amount + Tip Amount)
+*Total Amount (Fare Amount + Extra + MTA Tax + Toll Amount + Tip Amount)*
 
 Since our end goal was to do time series analysis of data and predict how many yellow taxi trips would occur in the year 2016, I decided to subset the data by Trip Pickup Date-Time. I got a count of trip completed based on Trip Pickup Date-Time for each day from 2009 to 2015 and saved it in a .csv file. This helped me in converting 173GB of data to just 41KB, as I just used the columns that I needed.
 

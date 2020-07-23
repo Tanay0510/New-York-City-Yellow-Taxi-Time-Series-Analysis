@@ -6,6 +6,10 @@ The figure below shows the taxi trip by year.
 
 ![](iamge/EDANYCTAXIDATA.png)
 
+The figure below shows the frequency of taxi trip from 2009-2015 
+
+![](iamge/TimeSeries.png)
+
 Then, I did time series forecasting by using appropriate model for the dataset. The only limitation of this was that the resources available to me was not enough to go into detailed analysis of the data. Given an opportunity, I would like to divulge deeper into this dataset to come up with even more finding such as which location/ area will have how many pick-ups on a given day
 
 
